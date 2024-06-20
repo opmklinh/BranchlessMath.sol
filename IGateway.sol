@@ -3,7 +3,7 @@
 
 pragma solidity >=0.8.0;
 
-import {GmpSender} from "../Primitives.sol";
+import {GmpSender} from "Primitives.sol";
 
 /**
  * @dev Required interface of an Gateway compliant contract
